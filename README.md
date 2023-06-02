@@ -13,7 +13,7 @@
 
 Após isso você irá abrir uma pasta do seu projeto, e irá criar uma pasta chamada imagens, procure no Google por uma imagem de cachorro e salve dentro dessa nova pasta criada. Feito isso, irá abrir seu arquivo index.html e irá adicionar as seguintes modificações e salve o arquivo:
 
-📍 Para verificar a Atividade HTML [CLIQUE AQUI](index.html)
+📍 Para verificar a Atividade HTML **[CLIQUE AQUI](index.html)**
 
 👩‍💻 Código: 
 ```
